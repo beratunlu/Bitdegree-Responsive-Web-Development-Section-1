@@ -12,3 +12,5 @@ I learned the following features in this project.
   8-  The maximum and minimum height of elements are set using max-height and min-height.
   9-  When we have set the height of media elements like image or audio, we can set their width automatically so that element can scale without overflow. 
  10-  When we set 'background-size: cover;', a background image of an HTML element will scale proportionally.
+
+	
